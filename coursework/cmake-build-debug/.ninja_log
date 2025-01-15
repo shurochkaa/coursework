@@ -1,0 +1,25 @@
+# ninja log v5
+6	6696	7583406133469280	CMakeFiles/coursework.dir/server.cpp.obj	3bfbec6d7dfc08ab
+5	3035	7586077229504436	CMakeFiles/server.dir/src/InvertedIndex.cpp.obj	82780256624b5e58
+4243	5242	7586081733919552	coursework.exe	1592d4f0c6154402
+7	2715	7583364049537742	CMakeFiles/coursework.dir/client.cpp.obj	66cd1b041bd4740f
+1	141	7586085652796283	build.ninja	ed19f15dfba549aa
+7	4243	7586081724028464	CMakeFiles/coursework.dir/src/server.cpp.obj	314970cdd86409e9
+10	2945	7586078681672307	CMakeFiles/coursework.dir/src/InvertedIndex.cpp.obj	59b7396cd08fb8b9
+6	2622	7583420808118902	CMakeFiles/coursework.dir/src/client.cpp.obj	7d4d42e64620ef22
+4	4666	7586078698920976	CMakeFiles/coursework.dir/src/UserManagement.cpp.obj	91f987e9bd2a8eb2
+6	5428	7586078706506145	CMakeFiles/coursework.dir/src/WebServer.cpp.obj	9b111d72a1c54d06
+6	2888	7586057384927205	CMakeFiles/console_client.dir/src/client.cpp.obj	4ba23214e503a436
+2888	3104	7586057387127348	console_client.exe	4ff15075f8a812b9
+7	4679	7586019584422313	CMakeFiles/bench.dir/src/test.cpp.obj	bcc6d37d1fc4e53a
+10	2695	7585989833216185	CMakeFiles/bench.dir/src/InvertedIndex.cpp.obj	27c484583a6374a5
+9	4332	7585989849644273	CMakeFiles/bench.dir/src/UserManagement.cpp.obj	118b9e582f2f5149
+6	4972	7585989856012099	CMakeFiles/bench.dir/src/WebServer.cpp.obj	e1a8f96b99be9233
+4679	5214	7586019589722525	bench.exe	899353cf1a922522
+6	213	7586077201337118	CMakeFiles/server.dir/resources.rc.obj	59ee5013d5a3717d
+3	6056	7586077259730508	CMakeFiles/server.dir/src/WebServer.cpp.obj	efeb7e97d209eaeb
+4	4937	7586077248603752	CMakeFiles/server.dir/src/server.cpp.obj	b4e8fca748f0ffe6
+7	74	7586078988209929	CMakeFiles/coursework.dir/resources.rc.obj	3fed4ef25e6e7967
+7	76	7586085905083651	CMakeFiles/console_client.dir/client_resources.rc.obj	5e54d211ba80ea82
+4	2614	7586085930396545	CMakeFiles/console_client.dir/src/client.cpp.obj	4ba23214e503a436
+2614	3060	7586085934797606	console_client.exe	92bf26db6dbc22a7

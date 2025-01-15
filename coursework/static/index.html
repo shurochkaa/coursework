@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пошукова система</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrapper">
+    <h1>Пошукова система</h1>
+    <div class="search-section">
+        <input type="text" id="searchTerm" placeholder="Введіть пошуковий запит">
+        <button id="searchButton">Пошук</button>
+        <button id="adminButton">Адмінка</button>
+    </div>
+    <div class="admin-panel" id="adminPanel">
+        <h2>Адмінка</h2>
+        <div class="add-form">
+            <h3>Додати документ</h3>
+            <label for="docId">ID Документу:</label>
+            <input type="text" id="docId" required>
+            <label for="docContent">Вміст документу:</label>
+            <textarea id="docContent" rows="5" required></textarea>
+            <button id="addButton">Додати документ</button>
+        </div>
+        <div class="add-form">
+            <h3>Видалити документ</h3>
+            <label for="deleteDoc">Оберіть документ для видалення:</label>
+            <select id="deleteDoc"></select>
+            <button id="deleteButton">Видалити</button>
+        </div>
+    </div>
+    <div class="results">
+        <h3>Результати пошуку</h3>
+        <div id="resultContent">Тут поки пусто</div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
